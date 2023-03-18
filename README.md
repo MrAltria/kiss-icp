@@ -16,7 +16,7 @@ git clone https://github.com/PRBonn/kiss-icp && colcon build
 It was never this easy, just git clone this repo into your catkin workspace and build it:
 
 ```sh
-cd ~/catkin_ws/ && git clone https://github.com/PRBonn/kiss-icp && catkin build
+cd ~/catkin_ws/src && git clone https://github.com/PRBonn/kiss-icp && catkin build
 ```
 
 For more detailed instructions on the ROS wrappers, please visit this [README](ros/README.md)
